@@ -1,1 +1,2 @@
 I hope to be better in python programming
+Mars doesn't just have one moon. It has more, perfect for moon bases
