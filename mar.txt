@@ -1,3 +1,4 @@
 I hope to be better in python programming
 Mars doesn't just have one moon. It has more, perfect for moon bases
 We will also need a parking garage on mar base
+Let consider venus as a base
